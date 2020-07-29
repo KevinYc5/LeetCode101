@@ -1,0 +1,4 @@
+"D:\Program Files\CLion\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\AClionWorkSpace\Cpp\LeetCode
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/AClionWorkSpace/Cpp/LeetCode/cmake-build-debug
