@@ -122,167 +122,32 @@ LeetCode/fast:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/build
 .PHONY : LeetCode/fast
 
-126.obj: 126.cpp.obj
+6_一切皆可搜索/40.obj: 6_一切皆可搜索/40.cpp.obj
 
-.PHONY : 126.obj
-
-# target to build an object file
-126.cpp.obj:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/126.cpp.obj
-.PHONY : 126.cpp.obj
-
-126.i: 126.cpp.i
-
-.PHONY : 126.i
-
-# target to preprocess a source file
-126.cpp.i:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/126.cpp.i
-.PHONY : 126.cpp.i
-
-126.s: 126.cpp.s
-
-.PHONY : 126.s
-
-# target to generate assembly for a file
-126.cpp.s:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/126.cpp.s
-.PHONY : 126.cpp.s
-
-6_一切皆可搜索/126.obj: 6_一切皆可搜索/126.cpp.obj
-
-.PHONY : 6_一切皆可搜索/126.obj
+.PHONY : 6_一切皆可搜索/40.obj
 
 # target to build an object file
-6_一切皆可搜索/126.cpp.obj:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/126.cpp.obj
-.PHONY : 6_一切皆可搜索/126.cpp.obj
+6_一切皆可搜索/40.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/40.cpp.obj
+.PHONY : 6_一切皆可搜索/40.cpp.obj
 
-6_一切皆可搜索/126.i: 6_一切皆可搜索/126.cpp.i
+6_一切皆可搜索/40.i: 6_一切皆可搜索/40.cpp.i
 
-.PHONY : 6_一切皆可搜索/126.i
-
-# target to preprocess a source file
-6_一切皆可搜索/126.cpp.i:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/126.cpp.i
-.PHONY : 6_一切皆可搜索/126.cpp.i
-
-6_一切皆可搜索/126.s: 6_一切皆可搜索/126.cpp.s
-
-.PHONY : 6_一切皆可搜索/126.s
-
-# target to generate assembly for a file
-6_一切皆可搜索/126.cpp.s:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/126.cpp.s
-.PHONY : 6_一切皆可搜索/126.cpp.s
-
-6_一切皆可搜索/130.obj: 6_一切皆可搜索/130.cpp.obj
-
-.PHONY : 6_一切皆可搜索/130.obj
-
-# target to build an object file
-6_一切皆可搜索/130.cpp.obj:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/130.cpp.obj
-.PHONY : 6_一切皆可搜索/130.cpp.obj
-
-6_一切皆可搜索/130.i: 6_一切皆可搜索/130.cpp.i
-
-.PHONY : 6_一切皆可搜索/130.i
+.PHONY : 6_一切皆可搜索/40.i
 
 # target to preprocess a source file
-6_一切皆可搜索/130.cpp.i:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/130.cpp.i
-.PHONY : 6_一切皆可搜索/130.cpp.i
+6_一切皆可搜索/40.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/40.cpp.i
+.PHONY : 6_一切皆可搜索/40.cpp.i
 
-6_一切皆可搜索/130.s: 6_一切皆可搜索/130.cpp.s
+6_一切皆可搜索/40.s: 6_一切皆可搜索/40.cpp.s
 
-.PHONY : 6_一切皆可搜索/130.s
-
-# target to generate assembly for a file
-6_一切皆可搜索/130.cpp.s:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/130.cpp.s
-.PHONY : 6_一切皆可搜索/130.cpp.s
-
-6_一切皆可搜索/257.obj: 6_一切皆可搜索/257.cpp.obj
-
-.PHONY : 6_一切皆可搜索/257.obj
-
-# target to build an object file
-6_一切皆可搜索/257.cpp.obj:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/257.cpp.obj
-.PHONY : 6_一切皆可搜索/257.cpp.obj
-
-6_一切皆可搜索/257.i: 6_一切皆可搜索/257.cpp.i
-
-.PHONY : 6_一切皆可搜索/257.i
-
-# target to preprocess a source file
-6_一切皆可搜索/257.cpp.i:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/257.cpp.i
-.PHONY : 6_一切皆可搜索/257.cpp.i
-
-6_一切皆可搜索/257.s: 6_一切皆可搜索/257.cpp.s
-
-.PHONY : 6_一切皆可搜索/257.s
+.PHONY : 6_一切皆可搜索/40.s
 
 # target to generate assembly for a file
-6_一切皆可搜索/257.cpp.s:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/257.cpp.s
-.PHONY : 6_一切皆可搜索/257.cpp.s
-
-6_一切皆可搜索/47.obj: 6_一切皆可搜索/47.cpp.obj
-
-.PHONY : 6_一切皆可搜索/47.obj
-
-# target to build an object file
-6_一切皆可搜索/47.cpp.obj:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/47.cpp.obj
-.PHONY : 6_一切皆可搜索/47.cpp.obj
-
-6_一切皆可搜索/47.i: 6_一切皆可搜索/47.cpp.i
-
-.PHONY : 6_一切皆可搜索/47.i
-
-# target to preprocess a source file
-6_一切皆可搜索/47.cpp.i:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/47.cpp.i
-.PHONY : 6_一切皆可搜索/47.cpp.i
-
-6_一切皆可搜索/47.s: 6_一切皆可搜索/47.cpp.s
-
-.PHONY : 6_一切皆可搜索/47.s
-
-# target to generate assembly for a file
-6_一切皆可搜索/47.cpp.s:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/47.cpp.s
-.PHONY : 6_一切皆可搜索/47.cpp.s
-
-6_一切皆可搜索/934.obj: 6_一切皆可搜索/934.cpp.obj
-
-.PHONY : 6_一切皆可搜索/934.obj
-
-# target to build an object file
-6_一切皆可搜索/934.cpp.obj:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/934.cpp.obj
-.PHONY : 6_一切皆可搜索/934.cpp.obj
-
-6_一切皆可搜索/934.i: 6_一切皆可搜索/934.cpp.i
-
-.PHONY : 6_一切皆可搜索/934.i
-
-# target to preprocess a source file
-6_一切皆可搜索/934.cpp.i:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/934.cpp.i
-.PHONY : 6_一切皆可搜索/934.cpp.i
-
-6_一切皆可搜索/934.s: 6_一切皆可搜索/934.cpp.s
-
-.PHONY : 6_一切皆可搜索/934.s
-
-# target to generate assembly for a file
-6_一切皆可搜索/934.cpp.s:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/934.cpp.s
-.PHONY : 6_一切皆可搜索/934.cpp.s
+6_一切皆可搜索/40.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/40.cpp.s
+.PHONY : 6_一切皆可搜索/40.cpp.s
 
 # Help Target
 help:
@@ -293,24 +158,9 @@ help:
 	@echo ... LeetCode
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... 126.obj
-	@echo ... 126.i
-	@echo ... 126.s
-	@echo ... 6_一切皆可搜索/126.obj
-	@echo ... 6_一切皆可搜索/126.i
-	@echo ... 6_一切皆可搜索/126.s
-	@echo ... 6_一切皆可搜索/130.obj
-	@echo ... 6_一切皆可搜索/130.i
-	@echo ... 6_一切皆可搜索/130.s
-	@echo ... 6_一切皆可搜索/257.obj
-	@echo ... 6_一切皆可搜索/257.i
-	@echo ... 6_一切皆可搜索/257.s
-	@echo ... 6_一切皆可搜索/47.obj
-	@echo ... 6_一切皆可搜索/47.i
-	@echo ... 6_一切皆可搜索/47.s
-	@echo ... 6_一切皆可搜索/934.obj
-	@echo ... 6_一切皆可搜索/934.i
-	@echo ... 6_一切皆可搜索/934.s
+	@echo ... 6_一切皆可搜索/40.obj
+	@echo ... 6_一切皆可搜索/40.i
+	@echo ... 6_一切皆可搜索/40.s
 .PHONY : help
 
 

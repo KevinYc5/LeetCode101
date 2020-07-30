@@ -4,12 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/AClionWorkSpace/Cpp/LeetCode/126.cpp" "D:/AClionWorkSpace/Cpp/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/126.cpp.obj"
-  "D:/AClionWorkSpace/Cpp/LeetCode/6_一切皆可搜索/126.cpp" "D:/AClionWorkSpace/Cpp/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/6_一切皆可搜索/126.cpp.obj"
-  "D:/AClionWorkSpace/Cpp/LeetCode/6_一切皆可搜索/130.cpp" "D:/AClionWorkSpace/Cpp/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/6_一切皆可搜索/130.cpp.obj"
-  "D:/AClionWorkSpace/Cpp/LeetCode/6_一切皆可搜索/257.cpp" "D:/AClionWorkSpace/Cpp/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/6_一切皆可搜索/257.cpp.obj"
-  "D:/AClionWorkSpace/Cpp/LeetCode/6_一切皆可搜索/47.cpp" "D:/AClionWorkSpace/Cpp/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/6_一切皆可搜索/47.cpp.obj"
-  "D:/AClionWorkSpace/Cpp/LeetCode/6_一切皆可搜索/934.cpp" "D:/AClionWorkSpace/Cpp/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/6_一切皆可搜索/934.cpp.obj"
+  "D:/AClionWorkSpace/Cpp/LeetCode/6_一切皆可搜索/40.cpp" "D:/AClionWorkSpace/Cpp/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/6_一切皆可搜索/40.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
