@@ -91,6 +91,12 @@
 		<Unit filename="D:/AClionWorkSpace/Cpp/LeetCode/6_一切皆可搜索/40.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="D:/AClionWorkSpace/Cpp/LeetCode/7_深入浅出动态规划/198.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="D:/AClionWorkSpace/Cpp/LeetCode/7_深入浅出动态规划/70.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="D:/AClionWorkSpace/Cpp/LeetCode/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

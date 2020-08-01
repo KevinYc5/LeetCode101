@@ -203,6 +203,60 @@ LeetCode/fast:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/40.cpp.s
 .PHONY : 6_一切皆可搜索/40.cpp.s
 
+7_深入浅出动态规划/198.obj: 7_深入浅出动态规划/198.cpp.obj
+
+.PHONY : 7_深入浅出动态规划/198.obj
+
+# target to build an object file
+7_深入浅出动态规划/198.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/7_深入浅出动态规划/198.cpp.obj
+.PHONY : 7_深入浅出动态规划/198.cpp.obj
+
+7_深入浅出动态规划/198.i: 7_深入浅出动态规划/198.cpp.i
+
+.PHONY : 7_深入浅出动态规划/198.i
+
+# target to preprocess a source file
+7_深入浅出动态规划/198.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/7_深入浅出动态规划/198.cpp.i
+.PHONY : 7_深入浅出动态规划/198.cpp.i
+
+7_深入浅出动态规划/198.s: 7_深入浅出动态规划/198.cpp.s
+
+.PHONY : 7_深入浅出动态规划/198.s
+
+# target to generate assembly for a file
+7_深入浅出动态规划/198.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/7_深入浅出动态规划/198.cpp.s
+.PHONY : 7_深入浅出动态规划/198.cpp.s
+
+7_深入浅出动态规划/70.obj: 7_深入浅出动态规划/70.cpp.obj
+
+.PHONY : 7_深入浅出动态规划/70.obj
+
+# target to build an object file
+7_深入浅出动态规划/70.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/7_深入浅出动态规划/70.cpp.obj
+.PHONY : 7_深入浅出动态规划/70.cpp.obj
+
+7_深入浅出动态规划/70.i: 7_深入浅出动态规划/70.cpp.i
+
+.PHONY : 7_深入浅出动态规划/70.i
+
+# target to preprocess a source file
+7_深入浅出动态规划/70.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/7_深入浅出动态规划/70.cpp.i
+.PHONY : 7_深入浅出动态规划/70.cpp.i
+
+7_深入浅出动态规划/70.s: 7_深入浅出动态规划/70.cpp.s
+
+.PHONY : 7_深入浅出动态规划/70.s
+
+# target to generate assembly for a file
+7_深入浅出动态规划/70.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/7_深入浅出动态规划/70.cpp.s
+.PHONY : 7_深入浅出动态规划/70.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -221,6 +275,12 @@ help:
 	@echo ... 6_一切皆可搜索/40.obj
 	@echo ... 6_一切皆可搜索/40.i
 	@echo ... 6_一切皆可搜索/40.s
+	@echo ... 7_深入浅出动态规划/198.obj
+	@echo ... 7_深入浅出动态规划/198.i
+	@echo ... 7_深入浅出动态规划/198.s
+	@echo ... 7_深入浅出动态规划/70.obj
+	@echo ... 7_深入浅出动态规划/70.i
+	@echo ... 7_深入浅出动态规划/70.s
 .PHONY : help
 
 
