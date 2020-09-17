@@ -122,140 +122,86 @@ LeetCode/fast:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/build
 .PHONY : LeetCode/fast
 
-6_一切皆可搜索/310.obj: 6_一切皆可搜索/310.cpp.obj
+7_深入浅出动态规划/583.obj: 7_深入浅出动态规划/583.cpp.obj
 
-.PHONY : 6_一切皆可搜索/310.obj
-
-# target to build an object file
-6_一切皆可搜索/310.cpp.obj:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/310.cpp.obj
-.PHONY : 6_一切皆可搜索/310.cpp.obj
-
-6_一切皆可搜索/310.i: 6_一切皆可搜索/310.cpp.i
-
-.PHONY : 6_一切皆可搜索/310.i
-
-# target to preprocess a source file
-6_一切皆可搜索/310.cpp.i:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/310.cpp.i
-.PHONY : 6_一切皆可搜索/310.cpp.i
-
-6_一切皆可搜索/310.s: 6_一切皆可搜索/310.cpp.s
-
-.PHONY : 6_一切皆可搜索/310.s
-
-# target to generate assembly for a file
-6_一切皆可搜索/310.cpp.s:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/310.cpp.s
-.PHONY : 6_一切皆可搜索/310.cpp.s
-
-6_一切皆可搜索/37.obj: 6_一切皆可搜索/37.cpp.obj
-
-.PHONY : 6_一切皆可搜索/37.obj
+.PHONY : 7_深入浅出动态规划/583.obj
 
 # target to build an object file
-6_一切皆可搜索/37.cpp.obj:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/37.cpp.obj
-.PHONY : 6_一切皆可搜索/37.cpp.obj
+7_深入浅出动态规划/583.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/7_深入浅出动态规划/583.cpp.obj
+.PHONY : 7_深入浅出动态规划/583.cpp.obj
 
-6_一切皆可搜索/37.i: 6_一切皆可搜索/37.cpp.i
+7_深入浅出动态规划/583.i: 7_深入浅出动态规划/583.cpp.i
 
-.PHONY : 6_一切皆可搜索/37.i
+.PHONY : 7_深入浅出动态规划/583.i
 
 # target to preprocess a source file
-6_一切皆可搜索/37.cpp.i:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/37.cpp.i
-.PHONY : 6_一切皆可搜索/37.cpp.i
+7_深入浅出动态规划/583.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/7_深入浅出动态规划/583.cpp.i
+.PHONY : 7_深入浅出动态规划/583.cpp.i
 
-6_一切皆可搜索/37.s: 6_一切皆可搜索/37.cpp.s
+7_深入浅出动态规划/583.s: 7_深入浅出动态规划/583.cpp.s
 
-.PHONY : 6_一切皆可搜索/37.s
+.PHONY : 7_深入浅出动态规划/583.s
 
 # target to generate assembly for a file
-6_一切皆可搜索/37.cpp.s:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/37.cpp.s
-.PHONY : 6_一切皆可搜索/37.cpp.s
+7_深入浅出动态规划/583.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/7_深入浅出动态规划/583.cpp.s
+.PHONY : 7_深入浅出动态规划/583.cpp.s
 
-6_一切皆可搜索/40.obj: 6_一切皆可搜索/40.cpp.obj
+7_深入浅出动态规划/646.obj: 7_深入浅出动态规划/646.cpp.obj
 
-.PHONY : 6_一切皆可搜索/40.obj
+.PHONY : 7_深入浅出动态规划/646.obj
 
 # target to build an object file
-6_一切皆可搜索/40.cpp.obj:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/40.cpp.obj
-.PHONY : 6_一切皆可搜索/40.cpp.obj
+7_深入浅出动态规划/646.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/7_深入浅出动态规划/646.cpp.obj
+.PHONY : 7_深入浅出动态规划/646.cpp.obj
 
-6_一切皆可搜索/40.i: 6_一切皆可搜索/40.cpp.i
+7_深入浅出动态规划/646.i: 7_深入浅出动态规划/646.cpp.i
 
-.PHONY : 6_一切皆可搜索/40.i
+.PHONY : 7_深入浅出动态规划/646.i
 
 # target to preprocess a source file
-6_一切皆可搜索/40.cpp.i:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/40.cpp.i
-.PHONY : 6_一切皆可搜索/40.cpp.i
+7_深入浅出动态规划/646.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/7_深入浅出动态规划/646.cpp.i
+.PHONY : 7_深入浅出动态规划/646.cpp.i
 
-6_一切皆可搜索/40.s: 6_一切皆可搜索/40.cpp.s
+7_深入浅出动态规划/646.s: 7_深入浅出动态规划/646.cpp.s
 
-.PHONY : 6_一切皆可搜索/40.s
+.PHONY : 7_深入浅出动态规划/646.s
 
 # target to generate assembly for a file
-6_一切皆可搜索/40.cpp.s:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/6_一切皆可搜索/40.cpp.s
-.PHONY : 6_一切皆可搜索/40.cpp.s
+7_深入浅出动态规划/646.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/7_深入浅出动态规划/646.cpp.s
+.PHONY : 7_深入浅出动态规划/646.cpp.s
 
-7_深入浅出动态规划/198.obj: 7_深入浅出动态规划/198.cpp.obj
+test.obj: test.cpp.obj
 
-.PHONY : 7_深入浅出动态规划/198.obj
+.PHONY : test.obj
 
 # target to build an object file
-7_深入浅出动态规划/198.cpp.obj:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/7_深入浅出动态规划/198.cpp.obj
-.PHONY : 7_深入浅出动态规划/198.cpp.obj
+test.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/test.cpp.obj
+.PHONY : test.cpp.obj
 
-7_深入浅出动态规划/198.i: 7_深入浅出动态规划/198.cpp.i
+test.i: test.cpp.i
 
-.PHONY : 7_深入浅出动态规划/198.i
-
-# target to preprocess a source file
-7_深入浅出动态规划/198.cpp.i:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/7_深入浅出动态规划/198.cpp.i
-.PHONY : 7_深入浅出动态规划/198.cpp.i
-
-7_深入浅出动态规划/198.s: 7_深入浅出动态规划/198.cpp.s
-
-.PHONY : 7_深入浅出动态规划/198.s
-
-# target to generate assembly for a file
-7_深入浅出动态规划/198.cpp.s:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/7_深入浅出动态规划/198.cpp.s
-.PHONY : 7_深入浅出动态规划/198.cpp.s
-
-7_深入浅出动态规划/70.obj: 7_深入浅出动态规划/70.cpp.obj
-
-.PHONY : 7_深入浅出动态规划/70.obj
-
-# target to build an object file
-7_深入浅出动态规划/70.cpp.obj:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/7_深入浅出动态规划/70.cpp.obj
-.PHONY : 7_深入浅出动态规划/70.cpp.obj
-
-7_深入浅出动态规划/70.i: 7_深入浅出动态规划/70.cpp.i
-
-.PHONY : 7_深入浅出动态规划/70.i
+.PHONY : test.i
 
 # target to preprocess a source file
-7_深入浅出动态规划/70.cpp.i:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/7_深入浅出动态规划/70.cpp.i
-.PHONY : 7_深入浅出动态规划/70.cpp.i
+test.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/test.cpp.i
+.PHONY : test.cpp.i
 
-7_深入浅出动态规划/70.s: 7_深入浅出动态规划/70.cpp.s
+test.s: test.cpp.s
 
-.PHONY : 7_深入浅出动态规划/70.s
+.PHONY : test.s
 
 # target to generate assembly for a file
-7_深入浅出动态规划/70.cpp.s:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/7_深入浅出动态规划/70.cpp.s
-.PHONY : 7_深入浅出动态规划/70.cpp.s
+test.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/test.cpp.s
+.PHONY : test.cpp.s
 
 # Help Target
 help:
@@ -266,21 +212,15 @@ help:
 	@echo ... LeetCode
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... 6_一切皆可搜索/310.obj
-	@echo ... 6_一切皆可搜索/310.i
-	@echo ... 6_一切皆可搜索/310.s
-	@echo ... 6_一切皆可搜索/37.obj
-	@echo ... 6_一切皆可搜索/37.i
-	@echo ... 6_一切皆可搜索/37.s
-	@echo ... 6_一切皆可搜索/40.obj
-	@echo ... 6_一切皆可搜索/40.i
-	@echo ... 6_一切皆可搜索/40.s
-	@echo ... 7_深入浅出动态规划/198.obj
-	@echo ... 7_深入浅出动态规划/198.i
-	@echo ... 7_深入浅出动态规划/198.s
-	@echo ... 7_深入浅出动态规划/70.obj
-	@echo ... 7_深入浅出动态规划/70.i
-	@echo ... 7_深入浅出动态规划/70.s
+	@echo ... 7_深入浅出动态规划/583.obj
+	@echo ... 7_深入浅出动态规划/583.i
+	@echo ... 7_深入浅出动态规划/583.s
+	@echo ... 7_深入浅出动态规划/646.obj
+	@echo ... 7_深入浅出动态规划/646.i
+	@echo ... 7_深入浅出动态规划/646.s
+	@echo ... test.obj
+	@echo ... test.i
+	@echo ... test.s
 .PHONY : help
 
 

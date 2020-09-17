@@ -56,92 +56,62 @@ include CMakeFiles/LeetCode.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/LeetCode.dir/flags.make
 
-CMakeFiles/LeetCode.dir/6_一切皆可搜索/40.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
-CMakeFiles/LeetCode.dir/6_一切皆可搜索/40.cpp.obj: ../6_一切皆可搜索/40.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\AClionWorkSpace\Cpp\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LeetCode.dir/6_一切皆可搜索/40.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\6_一切皆可搜索\40.cpp.obj -c D:\AClionWorkSpace\Cpp\LeetCode\6_一切皆可搜索\40.cpp
+CMakeFiles/LeetCode.dir/test.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/test.cpp.obj: ../test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\AClionWorkSpace\Cpp\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LeetCode.dir/test.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\test.cpp.obj -c D:\AClionWorkSpace\Cpp\LeetCode\test.cpp
 
-CMakeFiles/LeetCode.dir/6_一切皆可搜索/40.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/6_一切皆可搜索/40.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\AClionWorkSpace\Cpp\LeetCode\6_一切皆可搜索\40.cpp > CMakeFiles\LeetCode.dir\6_一切皆可搜索\40.cpp.i
+CMakeFiles/LeetCode.dir/test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/test.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\AClionWorkSpace\Cpp\LeetCode\test.cpp > CMakeFiles\LeetCode.dir\test.cpp.i
 
-CMakeFiles/LeetCode.dir/6_一切皆可搜索/40.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/6_一切皆可搜索/40.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\AClionWorkSpace\Cpp\LeetCode\6_一切皆可搜索\40.cpp -o CMakeFiles\LeetCode.dir\6_一切皆可搜索\40.cpp.s
+CMakeFiles/LeetCode.dir/test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/test.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\AClionWorkSpace\Cpp\LeetCode\test.cpp -o CMakeFiles\LeetCode.dir\test.cpp.s
 
-CMakeFiles/LeetCode.dir/6_一切皆可搜索/37.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
-CMakeFiles/LeetCode.dir/6_一切皆可搜索/37.cpp.obj: ../6_一切皆可搜索/37.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\AClionWorkSpace\Cpp\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LeetCode.dir/6_一切皆可搜索/37.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\6_一切皆可搜索\37.cpp.obj -c D:\AClionWorkSpace\Cpp\LeetCode\6_一切皆可搜索\37.cpp
+CMakeFiles/LeetCode.dir/7_深入浅出动态规划/583.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/7_深入浅出动态规划/583.cpp.obj: ../7_深入浅出动态规划/583.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\AClionWorkSpace\Cpp\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LeetCode.dir/7_深入浅出动态规划/583.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\7_深入浅出动态规划\583.cpp.obj -c D:\AClionWorkSpace\Cpp\LeetCode\7_深入浅出动态规划\583.cpp
 
-CMakeFiles/LeetCode.dir/6_一切皆可搜索/37.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/6_一切皆可搜索/37.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\AClionWorkSpace\Cpp\LeetCode\6_一切皆可搜索\37.cpp > CMakeFiles\LeetCode.dir\6_一切皆可搜索\37.cpp.i
+CMakeFiles/LeetCode.dir/7_深入浅出动态规划/583.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/7_深入浅出动态规划/583.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\AClionWorkSpace\Cpp\LeetCode\7_深入浅出动态规划\583.cpp > CMakeFiles\LeetCode.dir\7_深入浅出动态规划\583.cpp.i
 
-CMakeFiles/LeetCode.dir/6_一切皆可搜索/37.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/6_一切皆可搜索/37.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\AClionWorkSpace\Cpp\LeetCode\6_一切皆可搜索\37.cpp -o CMakeFiles\LeetCode.dir\6_一切皆可搜索\37.cpp.s
+CMakeFiles/LeetCode.dir/7_深入浅出动态规划/583.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/7_深入浅出动态规划/583.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\AClionWorkSpace\Cpp\LeetCode\7_深入浅出动态规划\583.cpp -o CMakeFiles\LeetCode.dir\7_深入浅出动态规划\583.cpp.s
 
-CMakeFiles/LeetCode.dir/6_一切皆可搜索/310.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
-CMakeFiles/LeetCode.dir/6_一切皆可搜索/310.cpp.obj: ../6_一切皆可搜索/310.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\AClionWorkSpace\Cpp\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LeetCode.dir/6_一切皆可搜索/310.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\6_一切皆可搜索\310.cpp.obj -c D:\AClionWorkSpace\Cpp\LeetCode\6_一切皆可搜索\310.cpp
+CMakeFiles/LeetCode.dir/7_深入浅出动态规划/646.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/7_深入浅出动态规划/646.cpp.obj: ../7_深入浅出动态规划/646.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\AClionWorkSpace\Cpp\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LeetCode.dir/7_深入浅出动态规划/646.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\7_深入浅出动态规划\646.cpp.obj -c D:\AClionWorkSpace\Cpp\LeetCode\7_深入浅出动态规划\646.cpp
 
-CMakeFiles/LeetCode.dir/6_一切皆可搜索/310.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/6_一切皆可搜索/310.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\AClionWorkSpace\Cpp\LeetCode\6_一切皆可搜索\310.cpp > CMakeFiles\LeetCode.dir\6_一切皆可搜索\310.cpp.i
+CMakeFiles/LeetCode.dir/7_深入浅出动态规划/646.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/7_深入浅出动态规划/646.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\AClionWorkSpace\Cpp\LeetCode\7_深入浅出动态规划\646.cpp > CMakeFiles\LeetCode.dir\7_深入浅出动态规划\646.cpp.i
 
-CMakeFiles/LeetCode.dir/6_一切皆可搜索/310.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/6_一切皆可搜索/310.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\AClionWorkSpace\Cpp\LeetCode\6_一切皆可搜索\310.cpp -o CMakeFiles\LeetCode.dir\6_一切皆可搜索\310.cpp.s
-
-CMakeFiles/LeetCode.dir/7_深入浅出动态规划/70.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
-CMakeFiles/LeetCode.dir/7_深入浅出动态规划/70.cpp.obj: ../7_深入浅出动态规划/70.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\AClionWorkSpace\Cpp\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LeetCode.dir/7_深入浅出动态规划/70.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\7_深入浅出动态规划\70.cpp.obj -c D:\AClionWorkSpace\Cpp\LeetCode\7_深入浅出动态规划\70.cpp
-
-CMakeFiles/LeetCode.dir/7_深入浅出动态规划/70.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/7_深入浅出动态规划/70.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\AClionWorkSpace\Cpp\LeetCode\7_深入浅出动态规划\70.cpp > CMakeFiles\LeetCode.dir\7_深入浅出动态规划\70.cpp.i
-
-CMakeFiles/LeetCode.dir/7_深入浅出动态规划/70.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/7_深入浅出动态规划/70.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\AClionWorkSpace\Cpp\LeetCode\7_深入浅出动态规划\70.cpp -o CMakeFiles\LeetCode.dir\7_深入浅出动态规划\70.cpp.s
-
-CMakeFiles/LeetCode.dir/7_深入浅出动态规划/198.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
-CMakeFiles/LeetCode.dir/7_深入浅出动态规划/198.cpp.obj: ../7_深入浅出动态规划/198.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\AClionWorkSpace\Cpp\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LeetCode.dir/7_深入浅出动态规划/198.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\7_深入浅出动态规划\198.cpp.obj -c D:\AClionWorkSpace\Cpp\LeetCode\7_深入浅出动态规划\198.cpp
-
-CMakeFiles/LeetCode.dir/7_深入浅出动态规划/198.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/7_深入浅出动态规划/198.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\AClionWorkSpace\Cpp\LeetCode\7_深入浅出动态规划\198.cpp > CMakeFiles\LeetCode.dir\7_深入浅出动态规划\198.cpp.i
-
-CMakeFiles/LeetCode.dir/7_深入浅出动态规划/198.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/7_深入浅出动态规划/198.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\AClionWorkSpace\Cpp\LeetCode\7_深入浅出动态规划\198.cpp -o CMakeFiles\LeetCode.dir\7_深入浅出动态规划\198.cpp.s
+CMakeFiles/LeetCode.dir/7_深入浅出动态规划/646.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/7_深入浅出动态规划/646.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\AClionWorkSpace\Cpp\LeetCode\7_深入浅出动态规划\646.cpp -o CMakeFiles\LeetCode.dir\7_深入浅出动态规划\646.cpp.s
 
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
-"CMakeFiles/LeetCode.dir/6_一切皆可搜索/40.cpp.obj" \
-"CMakeFiles/LeetCode.dir/6_一切皆可搜索/37.cpp.obj" \
-"CMakeFiles/LeetCode.dir/6_一切皆可搜索/310.cpp.obj" \
-"CMakeFiles/LeetCode.dir/7_深入浅出动态规划/70.cpp.obj" \
-"CMakeFiles/LeetCode.dir/7_深入浅出动态规划/198.cpp.obj"
+"CMakeFiles/LeetCode.dir/test.cpp.obj" \
+"CMakeFiles/LeetCode.dir/7_深入浅出动态规划/583.cpp.obj" \
+"CMakeFiles/LeetCode.dir/7_深入浅出动态规划/646.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
 
-LeetCode.exe: CMakeFiles/LeetCode.dir/6_一切皆可搜索/40.cpp.obj
-LeetCode.exe: CMakeFiles/LeetCode.dir/6_一切皆可搜索/37.cpp.obj
-LeetCode.exe: CMakeFiles/LeetCode.dir/6_一切皆可搜索/310.cpp.obj
-LeetCode.exe: CMakeFiles/LeetCode.dir/7_深入浅出动态规划/70.cpp.obj
-LeetCode.exe: CMakeFiles/LeetCode.dir/7_深入浅出动态规划/198.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/test.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/7_深入浅出动态规划/583.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/7_深入浅出动态规划/646.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\AClionWorkSpace\Cpp\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\AClionWorkSpace\Cpp\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

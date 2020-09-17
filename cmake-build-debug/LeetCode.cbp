@@ -82,19 +82,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/AClionWorkSpace/Cpp/LeetCode/6_一切皆可搜索/310.cpp">
+		<Unit filename="D:/AClionWorkSpace/Cpp/LeetCode/7_深入浅出动态规划/583.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="D:/AClionWorkSpace/Cpp/LeetCode/6_一切皆可搜索/37.cpp">
+		<Unit filename="D:/AClionWorkSpace/Cpp/LeetCode/7_深入浅出动态规划/646.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="D:/AClionWorkSpace/Cpp/LeetCode/6_一切皆可搜索/40.cpp">
-			<Option target="LeetCode"/>
-		</Unit>
-		<Unit filename="D:/AClionWorkSpace/Cpp/LeetCode/7_深入浅出动态规划/198.cpp">
-			<Option target="LeetCode"/>
-		</Unit>
-		<Unit filename="D:/AClionWorkSpace/Cpp/LeetCode/7_深入浅出动态规划/70.cpp">
+		<Unit filename="D:/AClionWorkSpace/Cpp/LeetCode/test.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="D:/AClionWorkSpace/Cpp/LeetCode/CMakeLists.txt">
